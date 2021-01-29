@@ -1,1 +1,1 @@
-# generator-vue
+# generator-vue  yeoman-generator
